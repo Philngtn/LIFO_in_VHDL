@@ -1,0 +1,111 @@
+/nfs/home/p/ph_e/Practices/NAND3.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/NAND3.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity nand3
+-- Compiling architecture behavior of nand3
+
+} {} {}} /nfs/home/p/ph_e/Practices/FILO_Controller.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/FILO_Controller.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity filo_controller
+-- Compiling architecture behavior of filo_controller
+
+} {} {}} /nfs/home/p/ph_e/Practices/AND2.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/AND2.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity and2
+-- Compiling architecture behavior of and2
+
+} {} {}} /nfs/home/p/ph_e/Practices/DFF.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/DFF.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity dff
+-- Compiling architecture structual of dff
+
+} {} {}} /nfs/home/p/ph_e/Practices/OR2.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/OR2.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity or2
+-- Compiling architecture behavior of or2
+
+} {} {}} /nfs/home/p/ph_e/Practices/REG16bits_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/REG16bits_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity reg16bits_tb
+-- Compiling architecture testbench of reg16bits_tb
+
+} {} {}} /nfs/home/p/ph_e/Practices/DFF_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/DFF_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity dff_tb
+-- Compiling architecture testbench of dff_tb
+
+} {} {}} /nfs/home/p/ph_e/Practices/RegFile.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/RegFile.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity regfile
+-- Compiling architecture behavioral of regfile
+
+} {} {}} /nfs/home/p/ph_e/Practices/REG.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/REG.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture structural of reg
+
+} {} {}} /nfs/home/p/ph_e/Practices/INV1.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/INV1.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity inv1
+-- Compiling architecture behavior of inv1
+
+} {} {}} /nfs/home/p/ph_e/Practices/REG16bits.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/REG16bits.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity reg16bits
+-- Compiling architecture structual of reg16bits
+
+} {} {}} /nfs/home/p/ph_e/Practices/FILO_Buffer_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/FILO_Buffer_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity filo_buffer_tb
+-- Compiling architecture testbench of filo_buffer_tb
+
+} {} {}} /nfs/home/p/ph_e/Practices/NAND2.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/NAND2.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity nand2
+-- Compiling architecture behavior of nand2
+
+} {} {}} /nfs/home/p/ph_e/Practices/RegFile_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/RegFile_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity regfile_tb
+-- Compiling architecture testbench of regfile_tb
+
+} {} {}} /nfs/home/p/ph_e/Practices/FILO_Buffer.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/ph_e/Practices/FILO_Buffer.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity filo_buffer
+-- Compiling architecture behaviour of filo_buffer
+
+} {} {}}

@@ -1,0 +1,678 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/nfs/home/p/ph_e/FinalProject
+T_opt
+VEYE;LO1cMK7KP^3i@Af;K2
+04 10 9 work regfile_tb testbench 1
+=4-308d996205c8-5fdea061-7d1b2-353
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;6.6g;45
+Z3 d/nfs/home/p/ph_e/FinalProject
+T_opt1
+VS_EG;OmJ<;JOfHQl_Ehel1
+04 14 9 work filo_buffer_tb testbench 1
+=1-308d99620598-5fe005ff-1c19-5e78
+R1
+n@_opt1
+R2
+R3
+T_opt2
+V;N[3_GnM16jUWG4]n`TSD3
+04 11 2 work shiftreg_tb tb 1
+=6-308d99620598-5fddabc9-dcb10-5921
+R1
+n@_opt2
+R2
+R3
+Eand2
+Z4 w1608253216
+Z5 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z6 d/nfs/home/p/ph_e/Practices
+Z7 8/nfs/home/p/ph_e/Practices/AND2.vhd
+Z8 F/nfs/home/p/ph_e/Practices/AND2.vhd
+l0
+L14
+VHhMiE8Yb^RCJnkegIHBaE2
+Z9 OL;C;6.6g;45
+32
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 k>Y<nd1QQgPkkYWjSj[TI2
+Abehavior
+R5
+DEx4 work 4 and2 0 22 HhMiE8Yb^RCJnkegIHBaE2
+l20
+L19
+VK?ChJ4Ckin8TDcBKk]i?l3
+R9
+32
+Z12 Mx1 4 ieee 14 std_logic_1164
+R10
+R11
+!s100 odgh4XC?^=]3^DAmT==KF1
+Ed_mux
+Z13 w1608341898
+R5
+R6
+Z14 8/nfs/home/p/ph_e/Practices/D_Mux.vhd
+Z15 F/nfs/home/p/ph_e/Practices/D_Mux.vhd
+l0
+L6
+VWCOUh?FUeHz<<8]F?m?IE2
+R9
+32
+R10
+R11
+!s100 cS4Jk1fgB4AGzHzhk6PQL3
+Astructural
+R5
+DEx4 work 5 d_mux 0 22 WCOUh?FUeHz<<8]F?m?IE2
+l30
+L14
+VzG^5j=?zG@DlW_a8dilde2
+R9
+32
+R12
+R10
+R11
+!s100 XD1o^Lh8z4SJjeZNV=nWm2
+Edff
+Z16 w1608254818
+R5
+R6
+Z17 8/nfs/home/p/ph_e/Practices/DFF.vhd
+Z18 F/nfs/home/p/ph_e/Practices/DFF.vhd
+l0
+L15
+VdUDN:QS3B=Uo@A9ZlT]Dh0
+R9
+32
+R10
+R11
+!s100 AMiI@]eIjzV]U8Siah5M00
+Astructual
+R5
+DEx4 work 3 dff 0 22 dUDN:QS3B=Uo@A9ZlT]Dh0
+l37
+L23
+V2NWM?2Q^fn[6Bj7]OgE2=2
+R9
+32
+R12
+R10
+R11
+!s100 5;B[X43@E_DcJESZ=?koU2
+Edff_tb
+Z19 w1608254597
+R5
+R6
+Z20 8/nfs/home/p/ph_e/Practices/DFF_tb.vhd
+Z21 F/nfs/home/p/ph_e/Practices/DFF_tb.vhd
+l0
+L6
+VmNeG<KaRFdTbi[bC1hM5:0
+R9
+32
+R10
+R11
+!s100 ;_nW9eR[FH43aZZfR3^HO0
+Atestbench
+R5
+DEx4 work 6 dff_tb 0 22 mNeG<KaRFdTbi[bC1hM5:0
+l20
+L9
+Vi47X3@fI:Z8elLiC>L9Z:3
+R9
+32
+R12
+R10
+R11
+!s100 f6oXP0@1Ydz=SnNnlGVEG0
+Efilo_buffer
+Z22 w1608594145
+R5
+R6
+Z23 8/nfs/home/p/ph_e/Practices/FILO_Buffer.vhd
+Z24 F/nfs/home/p/ph_e/Practices/FILO_Buffer.vhd
+l0
+L11
+V;NiNkmKU1ToY28[?<fz3U0
+R9
+32
+R10
+R11
+!s100 1_o6z1RoAk2`0ZdlhZV863
+Abehaviour
+R5
+DEx4 work 11 filo_buffer 0 22 ;NiNkmKU1ToY28[?<fz3U0
+l57
+L21
+VeKNR>POTl9[:]UVi[S^:O2
+R9
+32
+R12
+R10
+R11
+!s100 URVjk?DN4K[:>jl>DIQB`3
+Efilo_buffer_fsm
+Z25 w1608523548
+R5
+R6
+Z26 8/nfs/home/p/ph_e/Practices/FILO_Buffer_FSM.vhd
+Z27 F/nfs/home/p/ph_e/Practices/FILO_Buffer_FSM.vhd
+l0
+L4
+VA`f3hHHh[7lWDodJ4LR3d0
+R9
+32
+R10
+R11
+!s100 b2b_Led_PFggaH]O[9QlL2
+Abehaviour
+R5
+DEx4 work 15 filo_buffer_fsm 0 22 A`f3hHHh[7lWDodJ4LR3d0
+l49
+L14
+V34kTm?PEi>DIGd9Oi1ao43
+R9
+32
+R12
+R10
+R11
+!s100 cj<SDGoSXLMl`]^Z]1>i32
+Efilo_buffer_fsm_tb
+Z28 w1608523717
+Z29 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+R5
+R6
+Z30 8/nfs/home/p/ph_e/Practices/FILO_buffer_FSM_tb.vhd
+Z31 F/nfs/home/p/ph_e/Practices/FILO_buffer_FSM_tb.vhd
+l0
+L6
+VoJInG]dLkRPK=zN0CPd393
+R9
+32
+R10
+R11
+!s100 =]D`hK3XI7mW4JfGQ[UDa2
+Atestbench
+R29
+R5
+DEx4 work 18 filo_buffer_fsm_tb 0 22 oJInG]dLkRPK=zN0CPd393
+32
+Z32 Mx2 4 ieee 14 std_logic_1164
+Z33 Mx1 4 ieee 11 numeric_std
+l30
+L9
+VkaBOMCnL3Y@icB?`GbSTl0
+R9
+R10
+R11
+!s100 3@4>lmGLC=oKc3jQ`[iEn0
+Efilo_buffer_tb
+Z34 w1608594196
+R29
+R5
+R6
+Z35 8/nfs/home/p/ph_e/Practices/FILO_Buffer_tb.vhd
+Z36 F/nfs/home/p/ph_e/Practices/FILO_Buffer_tb.vhd
+l0
+L14
+Vj2GNLH40TFNkVhgZF4c`J1
+!s100 A6RfJZLEn<_=Q[1iDRhdB0
+R9
+32
+R10
+R11
+Atestbench
+R29
+R5
+Z37 DEx4 work 14 filo_buffer_tb 0 22 j2GNLH40TFNkVhgZF4c`J1
+l38
+L17
+Z38 VQb4feUZGj789iAQij_:g;2
+!s100 ^;8iN1XVei7oD`dLDITVi2
+R9
+32
+R32
+R33
+R10
+R11
+Efilo_controller
+Z39 w1608594125
+Z40 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z41 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+R29
+R5
+R6
+Z42 8/nfs/home/p/ph_e/Practices/FILO_Controller.vhd
+Z43 F/nfs/home/p/ph_e/Practices/FILO_Controller.vhd
+l0
+L14
+VOa4RK`M`i[UScX<[[4:HN0
+R9
+32
+R10
+R11
+!s100 P:Ig`UZo0?SWmCb?J=d5V3
+Abehavior
+R40
+R41
+R29
+R5
+DEx4 work 15 filo_controller 0 22 Oa4RK`M`i[UScX<[[4:HN0
+l26
+L24
+V=TFFM5jfjIH:TFgg5g7BL1
+R9
+32
+Z44 Mx4 4 ieee 14 std_logic_1164
+Mx3 4 ieee 11 numeric_std
+Mx2 4 ieee 18 std_logic_unsigned
+Z45 Mx1 4 ieee 15 std_logic_arith
+R10
+R11
+!s100 UocUgTJ<f1MO>QR1`k_ee0
+Efilo_fsm
+Z46 w1608524385
+R29
+R5
+R6
+Z47 8/nfs/home/p/ph_e/Practices/FILO_FSM.vhd
+Z48 F/nfs/home/p/ph_e/Practices/FILO_FSM.vhd
+l0
+L5
+V]jY[HooEO<4KQ3hIfNQ6F2
+R9
+32
+R10
+R11
+!s100 0]L:OlQ`mP4;=E0^@3;]H3
+Abehavior
+R29
+R5
+DEx4 work 8 filo_fsm 0 22 ]jY[HooEO<4KQ3hIfNQ6F2
+32
+R32
+R33
+l21
+L14
+VdRmYV_L5=Wi7j2h3czOPS3
+R9
+R10
+R11
+!s100 a2O<RlO_4oMJL35i0_LGd1
+Einv1
+Z49 w1608253366
+R5
+R6
+Z50 8/nfs/home/p/ph_e/Practices/INV1.vhd
+Z51 F/nfs/home/p/ph_e/Practices/INV1.vhd
+l0
+L18
+VTc536SYUd^>Lg8W65I:QI2
+R9
+32
+R10
+R11
+!s100 m^A=fGGUg`n:S3DaJNKB82
+Abehavior
+R5
+DEx4 work 4 inv1 0 22 Tc536SYUd^>Lg8W65I:QI2
+l24
+L23
+Vc<=_3nnP0A[^9A5CRNc[Y1
+R9
+32
+R12
+R10
+R11
+!s100 jT>LnTJzNAz65QDg84b6S0
+Emux4to1
+w1608345813
+R5
+R6
+Z52 8/nfs/home/p/ph_e/Practices/Mux4to1.vhd
+Z53 F/nfs/home/p/ph_e/Practices/Mux4to1.vhd
+l0
+L6
+VUJ4[9@JV3Z`E47VQA^z^50
+R9
+32
+R10
+R11
+!s100 k0?nd6nfO^CMHma`^a[IM2
+Abehavioral
+R5
+DEx4 work 7 mux4to1 0 22 hmZ<B_]a?_UoXQKSBkhbB2
+l15
+L13
+VTY9EmcQhWDl6jKH7NATl=0
+R9
+32
+R12
+R10
+R11
+w1608332772
+!s100 :fCD=D^M1o?7]DE?c<BBQ2
+Emux7to1
+Z54 w1608345832
+R5
+R6
+R52
+R53
+l0
+L6
+VzPFTn7Ql7Sj^hL2KT:P_H2
+R9
+32
+R10
+R11
+!s100 LU@Vk5=zQUgnCR`c2>l?=2
+Abehavioral
+R5
+DEx4 work 7 mux7to1 0 22 zPFTn7Ql7Sj^hL2KT:P_H2
+l15
+L13
+V9XB`;HK1X1a23m3R[M8`I3
+R9
+32
+R12
+R10
+R11
+!s100 2boEAIh=^mPR=mQWK^6k]2
+Enand2
+Z55 w1608254521
+R5
+R6
+Z56 8/nfs/home/p/ph_e/Practices/NAND2.vhd
+Z57 F/nfs/home/p/ph_e/Practices/NAND2.vhd
+l0
+L31
+VYhfFT0OMLLDJOiZz20@jH2
+R9
+32
+R10
+R11
+!s100 YJK;LSnzoj33o1HZ`Yn3Y2
+Abehavior
+R5
+DEx4 work 5 nand2 0 22 YhfFT0OMLLDJOiZz20@jH2
+l37
+L36
+VL34QTDNOd7AZ1VDz7UC7U1
+R9
+32
+R12
+R10
+R11
+!s100 VOT2CIJ>Cai7aAVic:hAG1
+Enand3
+Z58 w1608254556
+R5
+R6
+Z59 8/nfs/home/p/ph_e/Practices/NAND3.vhd
+Z60 F/nfs/home/p/ph_e/Practices/NAND3.vhd
+l0
+L31
+V5MZnf9^mb1@<Z?gLD^Pke0
+R9
+32
+R10
+R11
+!s100 XJU0KP<S;53DJl9EW@X_82
+Abehavior
+R5
+DEx4 work 5 nand3 0 22 5MZnf9^mb1@<Z?gLD^Pke0
+l37
+L36
+V07OWW=c2=GoKe:dejcDVP3
+R9
+32
+R12
+R10
+R11
+!s100 RVgIj3_LWb]bInDb>BVhP0
+Eor2
+Z61 w1608253302
+R5
+R6
+Z62 8/nfs/home/p/ph_e/Practices/OR2.vhd
+Z63 F/nfs/home/p/ph_e/Practices/OR2.vhd
+l0
+L6
+Vc[19WQnkhQVQ]417Ra8?K2
+R9
+32
+R10
+R11
+!s100 EeEE6`M<TXbfXd[nYOUfL1
+Abehavior
+R5
+DEx4 work 3 or2 0 22 c[19WQnkhQVQ]417Ra8?K2
+l12
+L11
+V^@`c@WZJTb=mzQWKQC_^K2
+R9
+32
+R12
+R10
+R11
+!s100 N1B1Y5kSYGflzV1CUK4>c2
+Ereg
+Z64 w1608413650
+R5
+R6
+Z65 8/nfs/home/p/ph_e/Practices/REG.vhd
+Z66 F/nfs/home/p/ph_e/Practices/REG.vhd
+l0
+L8
+VVIXlDTLHeGFQSid5ciQRW2
+R9
+32
+R10
+R11
+!s100 UeYeb>>mgo]^LgcW8;W7U3
+Astructural
+R5
+DEx4 work 3 reg 0 22 VIXlDTLHeGFQSid5ciQRW2
+l40
+L16
+V<HIaa:8563<kRIOFYl>kQ0
+R9
+32
+R12
+R10
+R11
+!s100 gU7lNX6`3bhl0hW_Hh7eT0
+Ereg16bits
+Z67 w1608253460
+R5
+R6
+Z68 8/nfs/home/p/ph_e/Practices/REG16bits.vhd
+Z69 F/nfs/home/p/ph_e/Practices/REG16bits.vhd
+l0
+L4
+VOe=O9T?@RE7T?X53ER05B0
+R9
+32
+R10
+R11
+!s100 g^P9;PeJHE3lRg2996j7=0
+Astructual
+R5
+DEx4 work 9 reg16bits 0 22 Oe=O9T?@RE7T?X53ER05B0
+l21
+L10
+VhX]XA:_P;IFCG3P9;JFj?0
+R9
+32
+R12
+R10
+R11
+!s100 mb5j1P<;[;;Q2_D12W8bI3
+Ereg16bits_tb
+Z70 w1608253499
+R5
+R6
+Z71 8/nfs/home/p/ph_e/Practices/REG16bits_tb.vhd
+Z72 F/nfs/home/p/ph_e/Practices/REG16bits_tb.vhd
+l0
+L4
+VFWP7C4zOKdf>S`_`4F8361
+R9
+32
+R10
+R11
+!s100 fzRmd<^_FmjzjTllV66J:3
+Atestbench
+R5
+DEx4 work 12 reg16bits_tb 0 22 FWP7C4zOKdf>S`_`4F8361
+l24
+L7
+V7Vgfi?cigPWSRC1zP;GbZ1
+R9
+32
+R12
+R10
+R11
+!s100 m0BMB6iZ<bd0KEoDW4@?a3
+Eregfile
+Z73 w1608594184
+R5
+R6
+Z74 8/nfs/home/p/ph_e/Practices/RegFile.vhd
+Z75 F/nfs/home/p/ph_e/Practices/RegFile.vhd
+l0
+L12
+Vl]6AWSbY8>A:0R7clVHal1
+R9
+32
+R10
+R11
+!s100 91d_F5dVNo[Q9>6>0NCY11
+Abehavioral
+R5
+DEx4 work 7 regfile 0 22 l]6AWSbY8>A:0R7clVHal1
+l38
+L25
+VndU7cM5_bU@NbYRYiSzQP3
+R9
+32
+R12
+R10
+R11
+!s100 5Qo@Ub]6Xz3Infhf9kk9W0
+Eregfile_tb
+Z76 w1608594103
+R29
+R5
+R6
+Z77 8/nfs/home/p/ph_e/Practices/RegFile_tb.vhd
+Z78 F/nfs/home/p/ph_e/Practices/RegFile_tb.vhd
+l0
+L13
+Vmf0_:IK6ZFiO?_HZS^Yf`2
+R9
+32
+R10
+R11
+!s100 9fH:7JZ]D56i9VXF9WZ]<1
+Atestbench
+R29
+R5
+DEx4 work 10 regfile_tb 0 22 mf0_:IK6ZFiO?_HZS^Yf`2
+l39
+L16
+VdOTHL?D[X2ggX@;<[D:7P1
+R9
+32
+R32
+R33
+R10
+R11
+!s100 aKlWBDhBfLUV0J6E1MWJS0
+Eshiftreg
+Z79 w1608362906
+R29
+R5
+R6
+Z80 8/nfs/home/p/ph_e/Practices/ShiftReg.vhd
+Z81 F/nfs/home/p/ph_e/Practices/ShiftReg.vhd
+l0
+L5
+VgLW;KYh71VZ7VIC72m<Lz2
+R9
+32
+R10
+R11
+!s100 8CRd;YiRWZc>]QW^o3O>^1
+Atwo_seg_archi
+R29
+R5
+DEx4 work 8 shiftreg 0 22 gLW;KYh71VZ7VIC72m<Lz2
+l21
+L16
+VhR_CacJc;32V=<P1@6ggJ0
+R9
+32
+R32
+R33
+R10
+R11
+!s100 CAIBof?4I295dz_M8haBM0
+Eshiftreg_tb
+Z82 w1608360222
+R5
+R6
+Z83 8/nfs/home/p/ph_e/Practices/ShiftReg_tb.vhd
+Z84 F/nfs/home/p/ph_e/Practices/ShiftReg_tb.vhd
+l0
+L4
+VMomGGKBVXIk6Gb?eP[NN92
+R9
+32
+R10
+R11
+!s100 77OzODSe@kVJ>V^9]<1jj3
+Atb
+R5
+DEx4 work 11 shiftreg_tb 0 22 MomGGKBVXIk6Gb?eP[NN92
+l25
+L7
+VC7:NfN2B^VFERJFjUgUI`1
+R9
+32
+R12
+R10
+R11
+!s100 TG<i3lFG7?7Kh4^FGL[f[2
+Eunishiftrotate_1
+Z85 w1608329846
+R5
+R6
+Z86 8/nfs/home/p/ph_e/Practices/UniShiftRotate_1.vhd
+Z87 F/nfs/home/p/ph_e/Practices/UniShiftRotate_1.vhd
+l0
+L4
+VKWIbPeED]@Aa^W6<QG9I^0
+R9
+32
+R10
+R11
+!s100 eY406b8VkU^=`nfUIgDk>3
+Abehavioural
+R5
+DEx4 work 16 unishiftrotate_1 0 22 KWIbPeED]@Aa^W6<QG9I^0
+l14
+L12
+VRI>94]3R1;]6I;1gYg03b2
+R9
+32
+R12
+R10
+R11
+!s100 KV:7:VJRSFa:24F=JE7l?3
